@@ -1,7 +1,7 @@
 <p align="center">
 	<img
 		width="300"
-		alt="4Geeks Academy"
+		alt="Nacho Codina"
 		src="https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/static/background_art.jpg?raw=true">
 </p>
 
